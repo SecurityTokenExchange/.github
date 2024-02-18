@@ -21,5 +21,5 @@ no mether where on the world you are, you will always have access to the trading
 
 Are you a Rust Developer? You can pull and contribute to any of the contracts
 
-- [OrderBook](https://github.com/SecurityTokenExchange/STEX-orderbook)
+- [OrderBook](https://github.com/SecurityTokenExchange/OrderBook)
 - [Ticker Data](https://github.com/SecurityTokenExchange/STEX-orderbook)
